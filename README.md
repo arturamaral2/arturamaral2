@@ -7,7 +7,7 @@
 <h2 align="left">About Me</h2>
 
 ###
-<p align="left">- My interest are Systems modeling and Control, Machine Learning, Cloud, Big Data.<br>- My language Skill is Python.i n which I have 4 years of experience during my graduation.<br>- I intend to pursue a computer science master's degree after my graduation.<br>-  Passionate about science, technology and freedom. Trying to be a little better each day and always looking to the future. <br>- My hobbies include running, video games, series and drinking a good beer.</p>
+<p align="left">- My interest are Systems modeling and Control, Machine Learning, Cloud, Big Data.<br>- My language Skill is Python.i n which I have 4 years of experience during my graduation.<br>- I intend to pursue a computer science master's degree after my graduation.<br>-  Passionate about science, technology and freedom. Trying to be a little better each day and always looking to the future. <br>- My hobbies include running, video games, series and drinking a good beer in good company.</p>
 
 ###
 <div align="left">
